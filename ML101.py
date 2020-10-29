@@ -1,4 +1,4 @@
-# # Important steps in machine learning:
+# # What to do?
 # 1 - Import data
 # 2 - Clean the data - make sure organization/structure is okay (parsing)
 # 3 - Split data - Training set / test set
@@ -7,4 +7,6 @@
 # 6 - improve
 
 # # Tools for use
+
+# This is the upload line
 # Line for testing new branch
