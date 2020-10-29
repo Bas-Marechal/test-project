@@ -1,4 +1,4 @@
-# # Steps in machine learning:
+# # Important steps in machine learning:
 # 1 - Import data
 # 2 - Clean the data - make sure organization/structure is okay (parsing)
 # 3 - Split data - Training set / test set
